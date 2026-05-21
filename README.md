@@ -2,22 +2,24 @@
 
 Exploring how weather conditions influence food demand patterns using data analysis and visualization.
 
-*Overview*
+*Overview* -
 This project investigates the relationship between weather variables (temperature, rainfall, humidity, etc.) and food demand/sales across different categories. 
 The goal is to uncover actionable insights for restaurants, food delivery platforms, and retailers.
 
-*Key Questions*
+*Key Questions* -
 Does hot/cold weather shift demand toward specific food types?
 How does rainfall affect food delivery orders?
 Can weather data improve demand forecasting accuracy?
 
-*Tools*
+*Tools* -
+
 Techniques - Python, Pandas, Exploratory Data Analysis, Data Cleaning 
 Visualization – Matplotlib, Seaborn, Power BI
 Data Sources – Google trends data, Open-Meteo API
 
 *Proof*
 Complete analysis done in - Detailed_Analysis.ipynb
+
 Cleaned Data set in - Weather_vs_Demand_Data.csv
 
 Dashboard Screenshots -
