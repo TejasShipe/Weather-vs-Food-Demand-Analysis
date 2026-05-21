@@ -14,7 +14,9 @@ Can weather data improve demand forecasting accuracy?
 *Tools* -
 
 Techniques - Python, Pandas, Exploratory Data Analysis, Data Cleaning 
+
 Visualization – Matplotlib, Seaborn, Power BI
+
 Data Sources – Google trends data, Open-Meteo API
 
 *Proof*
