@@ -19,7 +19,8 @@ Visualization – Matplotlib, Seaborn, Power BI
 
 Data Sources – Google trends data, Open-Meteo API
 
-*Proof*
+*Proof* -
+
 Complete analysis done in - Detailed_Analysis.ipynb
 
 Cleaned Data set in - Weather_vs_Demand_Data.csv
