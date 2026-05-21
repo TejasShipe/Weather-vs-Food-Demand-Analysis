@@ -1,14 +1,19 @@
 # Weather-vs-Food-Demand-Analysis
 
-Exploring how weather conditions influence food demand patterns using data analysis and visualization.
+**Exploring how weather conditions influence food demand patterns using data analysis and visualization.**
 
 ***Overview*** -
+
 This project investigates the relationship between weather variables (temperature, rainfall, humidity, etc.) and food demand/sales across different categories. 
 The goal is to uncover actionable insights for restaurants, food delivery platforms, and retailers.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Key Questions*** -
+
 Does hot/cold weather shift demand toward specific food types?
+
 How does rainfall affect food delivery orders?
+
 Can weather data improve demand forecasting accuracy?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
