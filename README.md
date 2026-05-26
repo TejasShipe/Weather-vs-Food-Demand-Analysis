@@ -1,6 +1,6 @@
 # Weather-vs-Food-Demand-Analysis
 
-****Exploring how weather conditions influence food demand patterns using data analysis and visualization.********
+****Exploring how weather conditions influence food demand patterns using data analysis and visualization.****
 
 ***Overview*** -
 
