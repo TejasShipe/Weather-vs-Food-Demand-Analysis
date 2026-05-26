@@ -8,7 +8,7 @@ This project investigates the relationship between weather variables (temperatur
 The goal is to uncover actionable insights for restaurants, food delivery platforms, and retailers.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-***Key Questions*** -
+***Key Questions** -
 
 Does hot/cold weather shift demand toward specific food types?
 
