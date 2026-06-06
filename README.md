@@ -2,7 +2,7 @@
 
 ****Exploring how weather conditions influence food demand patterns using data analysis and visualization.****
 
-***Overview*** -
+***Overview**%* -
 
 This project investigates the relationship between weather variables (temperature, rainfall, humidity, etc.) and food demand/sales across different categories. 
 The goal is to uncover actionable insights for restaurants, food delivery platforms, and retailers.
